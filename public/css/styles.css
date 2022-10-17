@@ -93,15 +93,15 @@ main section article img {
 }
 
 .info-articulo .box-precio {
-    display: flex;   
+    display: flex;
 }
 
 .info-articulo .box-precio .precio {
-    width: 30%;
+    flex: 70%;
 }
 
 .info-articulo .box-precio .descuento {
-    width: 70%;
+    flex: 30%;
 }
 
 .button-menu {
